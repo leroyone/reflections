@@ -1,10 +1,18 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-It turns it into a git repository
-It creates a .git folder
+It turns it into a git repository.
+It creates a .git folder.
 
-It allows you to use git with the files in the folder
+It allows you to use git with the files in the folder.
 
 ######################
 
+How is the staging area different from the working directory/
+and the repository? What value do you think it offers?
+
+It is a holding area for files you wish to commit.
+It allows you to double check what you're about to commit.
+It allows you to commit multiple files.
+
+######################
 
