@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It turns it into a git repository
+It creates a .git folder
+
+It allows you to use git with the files in the folder
+
+######################
+
+
