@@ -24,3 +24,35 @@ Branches are parallel paths within a repository.
 -used when you want to try some experimental code or feature.
 
 #####################
+
+What is the benefit of having a copy of the last known/
+state of the remote stored locally?
+
+You can compare your changes to the last commit.
+
+#####################
+
+How would you collaborate without using Git or GitHub? What/
+would be easier, and what would be harder?
+
+Easier:
+No need for everybody to have git or github accounts.
+
+Harder:
+Keeping track of changes
+Multiple people working on different aspects
+File transfer
+
+#####################
+
+When would you want to make changes in a separate branch/
+rather than directly in master? What benefits does each approach have?
+
+When working on a new or experimental feature.
+When looking to get feedback before committing to master.
+
+Seperate branch:
+Keeping changes seperate from master until sure you want to commit.
+
+Direct:
+Less paperwork
