@@ -22,3 +22,37 @@ commit per logical change?
 By using diff to review your changes before committing
 
 ######################
+
+What are some situations when branches would be helpful/
+in keeping your history organized? How would branches help?
+
+If you're making different versions.
+If you're introducing an experimental feature.
+
+It helps you avoid changing the main program.
+
+######################
+
+How do the diagrams help you visualize the branch structure?
+
+By displaying the branch structure
+
+######################
+
+What is the result of merging two branches together? Why do/
+we represent it in the diagram the way we do?
+
+To add changes made on one branch to another branch.
+So that you can easily see the parents among other things.
+
+######################
+
+What are the pros and cons of Git’s automatic merging vs. always/
+doing merges manually?
+
+It saves a lot of time.
+It reduces errors.
+I don't know what the cons are...
+
+######################
+
